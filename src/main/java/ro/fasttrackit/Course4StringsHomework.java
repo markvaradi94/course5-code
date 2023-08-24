@@ -47,4 +47,8 @@ public class Course4StringsHomework {
         }
         return String.join(" ", words);
     }
+
+    public static void newMethod() {
+        System.out.println("Hi");
+    }
 }
